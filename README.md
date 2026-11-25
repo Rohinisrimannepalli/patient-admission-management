@@ -108,8 +108,9 @@ Frontend URL: http://localhost:5173
 
 ## Deployment
 
-- Frontend: Vercel (planned)
-- Backend: Render (planned)
+- Live Application: https://patient-admission-management-chi.vercel.app
+- Backend API: https://patient-admission-management.onrender.com
+- API Documentation: https://patient-admission-management.onrender.com/docs
 - Database: Neon PostgreSQL
 
 ## Disclaimer
@@ -117,6 +118,16 @@ Frontend URL: http://localhost:5173
 This application is developed for demonstration and
 technical assessment purposes. Only fictional patient
 records should be used.
+
+### Hosting Platforms
+
+- Frontend: Vercel
+- Backend: Render
+- Database: Neon
+
+Note: The backend is hosted on Render's free tier.
+The initial request may take 50 seconds or longer
+due to cold start.
 
 ## Author
 
